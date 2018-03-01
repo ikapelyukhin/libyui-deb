@@ -1,0 +1,6 @@
+libyui3 (3.3.3-1) UNRELEASED; urgency=low
+
+  * Initial release. Closes: #nnnn
+    <nnnn is the bug number of your ITP>
+
+ -- User McUserface <user@localhost>  Thu, 01 Mar 2018 16:03:03 +0100
