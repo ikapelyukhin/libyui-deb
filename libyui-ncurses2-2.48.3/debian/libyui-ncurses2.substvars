@@ -1,0 +1,2 @@
+shlibs:Depends=libc6 (>= 2.15), libgcc1 (>= 1:4.1.1), libncursesw5 (>= 5.7+20081129), libstdc++6 (>= 4.6), libtinfo5
+misc:Depends=
